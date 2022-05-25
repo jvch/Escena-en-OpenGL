@@ -1,4 +1,4 @@
-# Escena-en-OpenGL
+# OpenGL gnome scene
 Project showing a complete 3D-scene made in OpenGL:
 
 ![nomos2](https://user-images.githubusercontent.com/87211165/170304083-2c61fce2-1a71-4104-af44-b9edef0fb910.png)
