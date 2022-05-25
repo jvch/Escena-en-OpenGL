@@ -6,13 +6,13 @@ Proyecto en el que se muestra una escena 3D en opengl:
 
 Se hace uso de:
 
-*Control de Cámara
-*Fuentes de Luz
-*Sombras
-*Blending
-*Stencil
-*Selección y controles
-*NURBS
-*Objetos articulados
-*Movimiento de objetos
+- Control de Cámara
+- Fuentes de Luz
+- Sombras
+- Blending
+- Stencil
+- Selección y controles
+- NURBS
+- Objetos articulados
+- Movimiento de objetos
 
