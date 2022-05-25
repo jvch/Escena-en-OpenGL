@@ -1,18 +1,18 @@
 # Escena-en-OpenGL
-Proyecto en el que se muestra una escena 3D en opengl:
+Project showing a complete 3D-scene made in OpenGL:
 
 ![2](https://user-images.githubusercontent.com/87211165/170189655-9ae2fee5-3d62-4008-8121-dab8a1f506e5.png)
 
 
-Se implementa:
+It implements:
 
-- Control de Cámara
-- Fuentes de Luz
-- Sombras
+- Camera control
+- Light source
+- Shadows
 - Blending
 - Stencil
-- Selección y controles
+- Selection and controls
 - NURBS
-- Objetos articulados
-- Movimiento de objetos
+- Articulated objects
+- Objects movement
 
