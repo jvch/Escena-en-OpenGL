@@ -18,4 +18,4 @@ It implements:
 ## Run this demo
 To compile the program you must have the GLEW and GLUT libraries installed.
 
-Then just copy the three files given.
+Then just copy the three files given here.
