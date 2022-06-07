@@ -15,3 +15,6 @@ It implements:
 - Articulated objects
 - Objects movement
 
+## Run this demo
+To compile the program you must have the GLEW and GLUT libraries installed.
+Then just copy the three files given.
